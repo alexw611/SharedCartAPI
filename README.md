@@ -154,6 +154,3 @@ This project was developed as part of a university course (IU).
 
 ---
 
-<p align="center">
-  <sub>Built with ❤️ using FastAPI</sub>
-</p>
